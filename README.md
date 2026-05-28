@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Andrey Vargas Solís
+# Andrey Vargas Solís
 
 ### Advanced Data Science Engineering Student
 
