@@ -150,9 +150,17 @@ My goal is to continue developing practical projects that combine **data analysi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreyV0607&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreyV0607&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyV0607&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyV0607&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyV0607&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AndreyV0607&theme=tokyonight&hide_border=true" />
 
 </div>
 
