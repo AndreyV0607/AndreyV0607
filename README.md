@@ -2,7 +2,7 @@
 
 # Andrey Vargas Solís
 
-### Data Science | Machine Learning | Deep Learning | Generative AI
+### Data Science Engineering | Machine Learning Engineering | AI Engineering
 
 I am currently an advanced **Data Science Engineering student** at **Universidad Fidélitas**.
 
